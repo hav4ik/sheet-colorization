@@ -1,6 +1,6 @@
 # sheet-colorization
 Music sheet colorization for fun :D 
 
-Solarized dark             |  Solarized Ocean
+Before: Boring as heck             |  After: RAINBOW
 :-------------------------:|:-------------------------:
 ![](note2.png)  |  ![](note2_colorized.png)
